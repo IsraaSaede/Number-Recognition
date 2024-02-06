@@ -18,7 +18,8 @@ This project utilizes a Convolutional Neural Network (CNN) to recognize handwrit
 
 ## Usage
 
-1. Clone the repository to your local machine:git clone <https://github.com/IsraaSaede/Number-Recognition.git>
+1. Clone the repository to your local machine:
+git clone <https://github.com/IsraaSaede/Number-Recognition.git>
 2. Install the required dependencies:pip install -r requirements.txt
 3. Run the application:python <Number-Recognition>.ipynb
 4. Draw a digit on the GUI canvas.
